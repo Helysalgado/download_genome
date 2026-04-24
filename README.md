@@ -105,4 +105,4 @@ Añade en el repositorio: **Settings → General → Topics**.
 
 ## Licencia
 
-Especifica la licencia de este repositorio (p. ej. en `LICENSE`) o actualiza este apartado.
+MIT
