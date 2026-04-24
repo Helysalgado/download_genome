@@ -1,0 +1,5 @@
+genome_id	genome_name	assembly_accession	genbank_accessions	chromosomes	plasmids	contigs	Genome_download	Plasmid_check	RGI_status	Accession_usado	Plasmids_detected
+DSG0001	Escherichia coli strain FORC_069	GCA_003491165.1	CP023061,CP023062	1.0	1	2	completado	verificado	Pendiente	GCA_003491165.1	1
+DSG0002	Escherichia coli strain LSN03-016011/A	GCA_018884585.1	CP035884,CP035885	1.0	1	2	completado	verificado	Pendiente	GCA_018884585.1	1
+DSG0003	Escherichia coli strain E7476	GCA_018884285.1	CP035817,CP035818	1.0	1	2	completado	verificado	Pendiente	GCA_018884285.1	1
+DSG0004	Escherichia coli strain E24377A	GCA_003028775.1	CP028308	1.0	0	1	completado	verificado	Pendiente	GCA_003028775.1	0

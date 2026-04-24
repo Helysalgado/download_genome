@@ -1,0 +1,11 @@
+[project]
+name = "download-genome"
+version = "0.1.0"
+description = "Descarga GenBank y GFF3 desde NCBI según un listado TSV de genomas"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2",
+    "requests>=2",
+    "biopython>=1.83",
+]

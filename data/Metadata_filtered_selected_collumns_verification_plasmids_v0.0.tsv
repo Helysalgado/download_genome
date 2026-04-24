@@ -1,0 +1,212 @@
+genome_id	genome_name	assembly_accession	genbank_accessions	chromosomes	plasmids	contigs	Genome_download	Plasmid_check	RGI_status	Accession_usado	Plasmids_detected
+DSG0001	Escherichia coli strain FORC_069	GCA_003491165.1	CP023061,CP023062	1.0	1	2	completado	verificado	Pendiente	GCA_003491165.1	1
+DSG0002	Escherichia coli strain LSN03-016011/A	GCA_018884585.1	CP035884,CP035885	1.0	1	2	completado	verificado	Pendiente	GCA_018884585.1	1
+DSG0003	Escherichia coli strain E7476	GCA_018884285.1	CP035817,CP035818	1.0	1	2	completado	verificado	Pendiente	GCA_018884285.1	1
+DSG0004	Escherichia coli strain E24377A	GCA_003028775.1	CP028308	1.0	0	1	completado	verificado	Pendiente	GCA_003028775.1	0
+DSG0005	Escherichia coli O157:H7 strain Sakai	GCA_003028755.1	CP028307	1.0	0	1	completado	verificado	Pendiente	GCA_003028755.1	0
+DSG0006	Escherichia coli strain 5CRE51	Unavailable	CP021175,CP021176,CP021177	1.0	2	3	completado	verificado	Pendiente	CP021175,CP021176,CP021177	2
+DSG0007	Escherichia coli strain FHI_NMBU_11	GCA_016803875.1	CP045712,CP045713,CP045714,CP045715,CP045716,CP045717	1.0	5	6	completado	verificado	Pendiente	GCA_016803875.1	5
+DSG0008	Escherichia coli strain UFU_EC98	GCA_002736085.1	CP024092,CP024093,CP024094,CP024095	1.0	3	4	completado	verificado	Pendiente	GCA_002736085.1	3
+DSG0009	Escherichia coli strain 190693	GCA_011022275.1	CP048934	1.0	0	1	completado	verificado	Pendiente	GCA_011022275.1	0
+DSG0010	Escherichia coli strain 201609	GCA_010092965.1	CP048107	1.0	0	1	completado	verificado	Pendiente	GCA_010092965.1	0
+DSG0011	Escherichia coli strain E275 a	GCA_018884485.1	CP035865,CP035867,CP035866,CP035869,CP035868	1.0	4	5	completado	verificado	Pendiente	GCA_018884485.1	4
+DSG0012	Escherichia coli O157:H7 str. EDL933	GCA_003028715.1	CP028305	1.0	0	1	completado	verificado	Pendiente	GCA_003028715.1	0
+DSG0013	Escherichia coli strain BR64-DEC	GCA_004116935.1	CP035354,CP035352,CP035353,CP035355,CP035356,CP035357,CP035358,CP035359	1.0	7	8	completado	verificado	Pendiente	GCA_004116935.1	7
+DSG0014	Escherichia coli strain 95	GCA_007107905.1	CP041526,CP041527,CP041528	1.0	2	3	completado	verificado	Pendiente	GCA_007107905.1	2
+DSG0015	Escherichia coli strain 131	GCA_007109165.1	CP041546,CP041547,CP041548,CP041549	1.0	3	4	completado	verificado	Pendiente	GCA_007109165.1	3
+DSG0016	Escherichia coli strain SF-468	GCA_001280345.1	CP012625,CP012626,CP012627,CP012628,CP012629,CP012630	1.0	5	6	completado	verificado	Pendiente	GCA_001280345.1	5
+DSG0017	Escherichia coli strain BH100N	GCA_002900305.1	CP025703	1.0	0	1	completado	verificado	Pendiente	GCA_002900305.1	0
+DSG0018	Escherichia coli strain ETEC-2264	GCA_002302335.1	CP023349,CP023350,CP023351,CP023352	1.0	3	4	completado	verificado	Pendiente	GCA_002302335.1	3
+DSG0019	Escherichia coli strain ESC53083	GCA_016939795.1	CP070593,CP070592,CP070591,CP070590,CP070589,CP070588,CP070587	1.0	6	7	completado	verificado	Pendiente	GCA_016939795.1	6
+DSG0020	Escherichia coli O157:H7 strain TT12B strain not applicable	GCA_009627495.1	CP038494,CP038495	1.0	1	2	completado	verificado	Pendiente	GCA_009627495.1	1
+DSG0021	Escherichia coli strain Survcare253	GCA_018771465.1	CP076305,CP076309,CP076308,CP076306,CP076307,CP076310,CP076311	1.0	6	7	completado	verificado	Pendiente	GCA_018771465.1	6
+DSG0022	Escherichia coli strain EcPNK006	GCA_017352055.1	CP071436,CP071437,CP071438	1.0	2	3	completado	verificado	Pendiente	GCA_017352055.1	2
+DSG0023	Escherichia coli strain MNCRE44	GCF_000931565.1	CP010876,CP010877,CP010878,CP010879,CP010880,CP010881,CP010882	1.0	6	7	completado	verificado	Pendiente	GCF_000931565.1	6
+DSG0024	Escherichia coli strain 357900 strain not applicable	GCA_013376895.1	CP038859	1.0	0	1	completado	verificado	Pendiente	GCA_013376895.1	0
+DSG0025	Escherichia coli O157:H7 strain Z1812	GCA_017165015.1	CP062727,CP062728	1.0	1	2	completado	verificado	Pendiente	GCA_017165015.1	1
+DSG0026	Escherichia coli strain B7A	GCA_018884265.1	CP035812,CP035816,CP035815,CP035814,CP035813	1.0	4	5	completado	verificado	Pendiente	GCA_018884265.1	4
+DSG0027	Escherichia coli strain 179	GCA_018208275.1	CP062924,CP062925,CP062926	1.0	2	3	completado	verificado	Pendiente	GCA_018208275.1	2
+DSG0028	Escherichia coli strain EcPF40	GCA_013372305.1	CP054214,CP054215,CP054216,CP054217,CP054218	1.0	4	5	completado	verificado	Pendiente	GCA_013372305.1	4
+DSG0029	Escherichia coli strain p4A	GCA_011331215.1	CP049085	1.0	0	1	completado	verificado	Pendiente	GCA_011331215.1	0
+DSG0030	Escherichia coli strain CRE10	GCA_004135815.1	CP034404,CP034401,CP034402,CP034405,CP034403	1.0	4	5	completado	verificado	Pendiente	GCA_004135815.1	4
+DSG0031	Escherichia coli strain M70	GCA_019428565.1	CP080118	1.0	0	1	completado	verificado	Pendiente	GCA_019428565.1	0
+DSG0032	Escherichia coli strain 73	GCA_007108685.1	CP041538,CP041539,CP041540	1.0	2	3	completado	verificado	Pendiente	GCA_007108685.1	2
+DSG0033	Escherichia coli strain 131	GCA_007109005.1	CP041544,CP041545	1.0	1	2	completado	verificado	Pendiente	GCA_007109005.1	1
+DSG0034	Escherichia coli strain MS6193	GCA_013317085.1	CP047405,CP047406,CP047407,CP047408	1.0	3	4	completado	verificado	Pendiente	GCA_013317085.1	3
+DSG0035	Escherichia coli strain MSHS 472	GCA_006777065.1	CP041302,CP041301	1.0	1	2	completado	verificado	Pendiente	GCA_006777065.1	1
+DSG0036	Escherichia coli strain FC853_EC	GCA_006351885.1	CP040919,CP040920,CP040921,CP040922,CP040923	1.0	4	5	completado	verificado	Pendiente	GCA_006351885.1	4
+DSG0037	Escherichia coli strain 04-00955	GCA_004564035.1	CP035498	1.0	0	1	completado	verificado	Pendiente	GCA_004564035.1	0
+DSG0038	Escherichia coli strain E2	GCA_018884065.1	CP048915,CP048917,CP048919,CP048916,CP048918	1.0	4	5	completado	verificado	Pendiente	GCA_018884065.1	4
+DSG0039	Escherichia coli strain UPEC-455U/190220	GCA_019443605.1	CP049839,CP049843,CP049842,CP049841,CP049844,CP049840	1.0	5	6	completado	verificado	Pendiente	GCA_019443605.1	5
+DSG0040	Escherichia coli strain p10A	GCA_011331065.1	CP049081,CP049082,CP049083,CP049080,CP049084	1.0	4	5	completado	verificado	Pendiente	GCA_011331065.1	4
+DSG0041	Escherichia coli strain strain Z247	Unavailable	CP021207,CP021208,CP021209,CP021210	1.0	3	4	completado	verificado	Pendiente	CP021207,CP021208,CP021209,CP021210	3
+DSG0042	Escherichia coli strain BR25-DEC	GCA_004116875.1	CP035331,CP035332,CP035333,CP035334	1.0	3	4	completado	verificado	Pendiente	GCA_004116875.1	3
+DSG0043	Escherichia coli strain EcPF16	GCA_013372345.1	CP054224,CP054225,CP054226	1.0	2	3	completado	verificado	Pendiente	GCA_013372345.1	2
+DSG0044	Escherichia coli strain EC974	Unavailable	CP021840,CP021841,CP021842,CP021843	1.0	3	4	completado	verificado	Pendiente	CP021840,CP021841,CP021842,CP021843	3
+DSG0045	Escherichia coli strain K56-43-un	GCA_013394575.1	CP053079	1.0	0	1	completado	verificado	Pendiente	GCA_013394575.1	0
+DSG0046	Escherichia coli strain uk_P46212	GCF_001469815.1	CP013658,CP013657		1	2	completado	verificado	Pendiente	GCF_001469815.1	1
+DSG0047	Escherichia coli strain 377323_2f strain not applicable	GCA_004804185.1	CP039404,CP039405	1.0	1	2	completado	verificado	Pendiente	GCA_004804185.1	1
+DSG0048	Escherichia coli strain 963	GCA_007108305.1	CP041532,CP041533,CP041534	1.0	2	3	completado	verificado	Pendiente	GCA_007108305.1	2
+DSG0049	Escherichia coli strain WS0115A	GCA_018884565.1	CP035882,CP035883	1.0	1	2	completado	verificado	Pendiente	GCA_018884565.1	1
+DSG0050	Escherichia coli strain NCCP 14540	GCA_009873435.1	CP042982	1.0	0	1	completado	verificado	Pendiente	GCA_009873435.1	0
+DSG0051	Escherichia coli strain BR12-DEC	GCA_004116815.1	CP035325,CP035326,CP035327,CP035328,CP035329	1.0	4	5	completado	verificado	Pendiente	GCA_004116815.1	4
+DSG0052	Escherichia coli strain SF-173	GCF_001280405.1	CP012631,CP012632	1.0	1	2	completado	verificado	Pendiente	GCF_001280405.1	1
+DSG0053	Escherichia coli strain ECONC427	GCA_017869465.1	CP071133,CP071135,CP071134,CP071136	1.0	3	4	completado	verificado	Pendiente	GCA_017869465.1	3
+DSG0054	Escherichia coli strain B2C	GCA_018884525.1	CP035874,CP035875,CP035878,CP035877,CP035876	1.0	4	5	completado	verificado	Pendiente	GCA_018884525.1	4
+DSG0055	Escherichia coli strain BH100L	GCA_002887715.1	CP025716	1.0	0	1	completado	verificado	Pendiente	GCA_002887715.1	0
+DSG0056	Escherichia coli strain SCAID URN1-2021 (19/278) strain SCAID URN1-2021 (19/278) strain SCAID URN1-2021 (19/278)	GCA_019915505.1	CP082824,CP082825,CP082826	1.0	2	3	completado	verificado	Pendiente	GCA_019915505.1	2
+DSG0057	Escherichia coli strain BR10-DEC	GCA_004116795.1	CP035360,CP035361,CP035362,CP035363,CP035364,CP035365	1.0	5	6	completado	verificado	Pendiente	GCA_004116795.1	5
+DSG0058	Escherichia coli strain Combat2C1	GCA_002951675.1	CP019243,CP019244	1.0	1	2	completado	verificado	Pendiente	GCA_002951675.1	1
+DSG0059	Escherichia coli O104:H4 strain FDAARGOS_349	GCA_002983645.1	CP027394,CP027395,CP027392,CP027396,CP027393	1.0	4	5	completado	verificado	Pendiente	GCA_002983645.1	4
+DSG0060	Escherichia coli NU14 strain NU14	GCF_002024865.1	CP019777	1.0	0	1	completado	verificado	Pendiente	GCF_002024865.1	0
+DSG0061	Escherichia coli strain FDAARGOS_401	GCA_002393465.1	CP023531,CP023530	1.0	1	2	completado	verificado	Pendiente	GCA_002393465.1	1
+DSG0062	Escherichia coli strain EC2	GCA_009720465.1	CP041955,CP041956,CP041957,CP041958,CP041959,CP041960	1.0	5	6	completado	verificado	Pendiente	GCA_009720465.1	5
+DSG0063	Escherichia coli strain EcPF5	GCA_013372425.1	CP054236,CP054237,CP054238	1.0	2	3	completado	verificado	Pendiente	GCA_013372425.1	2
+DSG0064	Escherichia coli strain FMU073332	GCF_001888075.1	CP017844,CP017848,CP017845,CP017846,CP017847	1.0	4	5	completado	verificado	Pendiente	GCF_001888075.1	4
+DSG0065	Escherichia coli strain C5	GCA_018064225.1	CP072911,CP072912	1.0	1	2	completado	verificado	Pendiente	GCA_018064225.1	1
+DSG0066	Escherichia coli strain EC2341	GCA_018075285.1	CP072976,CP072977,CP072978,CP072979	1.0	3	4	completado	verificado	Pendiente	GCA_018075285.1	3
+DSG0067	Escherichia coli strain TD225-C4	GCA_018884465.1	CP035860,CP035862,CP035861,CP035864,CP035863	1.0	4	5	completado	verificado	Pendiente	GCA_018884465.1	4
+DSG0068	Escherichia coli strain EC28	GCA_011044355.1	CP049101,CP049102,CP049104,CP049105,CP049106,CP049103	1.0	5	6	completado	verificado	Pendiente	GCA_011044355.1	5
+DSG0069	Escherichia coli strain WS1933D	GCA_018884365.1	CP035836,CP035837,CP035840,CP035839,CP035838	1.0	4	5	completado	verificado	Pendiente	GCA_018884365.1	4
+DSG0070	Escherichia coli strain M45	GCA_019428585.1	CP080119	1.0	0	1	completado	verificado	Pendiente	GCA_019428585.1	0
+DSG0071	Escherichia coli strain WS4437A-1	GCA_018884325.1	CP035822,CP035825,CP035824,CP035823	1.0	3	4	completado	verificado	Pendiente	GCA_018884325.1	3
+DSG0072	Escherichia coli 55989	GCA_003028695.1	CP028304	1.0	0	1	completado	verificado	Pendiente	GCA_003028695.1	0
+DSG0073	Escherichia coli strain EC1	GCA_013402895.1	CP058574,CP058575,CP058576,CP058577	1.0	3	4	completado	verificado	Pendiente	GCA_013402895.1	3
+DSG0074	Escherichia coli strain FHI_NMBU_10	GCA_016803915.1	CP046539,CP046540,CP046541,CP046542,CP046543,CP046544,CP046545	1.0	6	7	completado	verificado	Pendiente	GCA_016803915.1	6
+DSG0075	Escherichia coli strain EcPF7	GCA_013372405.1	CP054232,CP054233,CP054234,CP054235	1.0	3	4	completado	verificado	Pendiente	GCA_013372405.1	3
+DSG0076	Escherichia coli strain BR32-DEC	GCA_004116915.1	CP035350,CP035349,CP035351	1.0	2	3	completado	verificado	Pendiente	GCA_004116915.1	2
+DSG0077	Escherichia coli strain M24	GCA_019428605.1	CP080120	1.0	0	1	completado	verificado	Pendiente	GCA_019428605.1	0
+DSG0078	Escherichia coli O1:H42 strain CLSC36	GCA_006777045.1	CP041300,CP041299	1.0	1	2	completado	verificado	Pendiente	GCA_006777045.1	1
+DSG0079	Escherichia coli strain APEC 01	GCA_003028815.1	CP028310	1.0	0	1	completado	verificado	Pendiente	GCA_003028815.1	0
+DSG0080	Escherichia coli strain EcPF14	GCA_013372385.1	CP054230,CP054231	1.0	1	2	completado	verificado	Pendiente	GCA_013372385.1	1
+DSG0081	Escherichia coli O157:H7 strain Z1626	GCA_017165155.1	CP062742,CP062743	1.0	1	2	completado	verificado	Pendiente	GCA_017165155.1	1
+DSG0082	Escherichia coli strain 144	GCA_007109305.1	CP041550,CP041551,CP041552,CP041553,CP041554,CP041555	1.0	5	6	completado	verificado	Pendiente	GCA_007109305.1	5
+DSG0083	Escherichia coli strain FDAARGOS_144	GCA_002944935.1	CP014111,CP014110,CP014112,CP014109	1.0	3	4	completado	verificado	Pendiente	GCA_002944935.1	3
+DSG0084	Escherichia coli strain BR14-DEC	GCA_004116855.1	CP035330	1.0	0	1	completado	verificado	Pendiente	GCA_004116855.1	0
+DSG0085	Escherichia coli strain 13KWH46	GCA_002951715.1	CP019250,CP019251,CP019252,CP019253,CP019254,CP019255	1.0	5	6	completado	verificado	Pendiente	GCA_002951715.1	5
+DSG0086	Escherichia coli strain EC96	GCA_014361285.1	CP060748,CP060750,CP060749,CP060752,CP060751,CP060753	1.0	5	6	completado	verificado	Pendiente	GCA_014361285.1	5
+DSG0087	Escherichia coli strain FHI_NMBU_03	GCA_002951855.1	CP019455,CP019456	1.0	1	2	completado	verificado	Pendiente	GCA_002951855.1	1
+DSG0088	Escherichia coli strain H17	GCA_003194125.1	CP021193,CP021194,CP021195,CP021196,CP021197,CP021198	1.0	5	6	completado	verificado	Pendiente	GCA_003194125.1	5
+DSG0089	Escherichia coli strain UPEC129	GCA_017356665.1	CP071522,CP071523,CP071524	1.0	2	3	completado	verificado	Pendiente	GCA_017356665.1	2
+DSG0090	Escherichia coli strain SJ7	GCA_008761535.1	CP044315	1.0	0	1	completado	verificado	Pendiente	GCA_008761535.1	0
+DSG0091	Escherichia coli O157 strain 644-PT8	GCF_001650295.1	CP015831	1.0	0	1	completado	verificado	Pendiente	GCF_001650295.1	0
+DSG0092	Escherichia coli strain TW10722	GCA_018884385.1	CP035841,CP035843,CP035842,CP035845,CP035844	1.0	4	5	completado	verificado	Pendiente	GCA_018884385.1	4
+DSG0093	Escherichia coli strain BR07-DEC	GCA_004116695.1	CP035322,CP035323,CP035324	1.0	2	3	completado	verificado	Pendiente	GCA_004116695.1	2
+DSG0094	Escherichia coli strain EC2	GCA_013402855.1	CP058571,CP058572,CP058573	1.0	2	3	completado	verificado	Pendiente	GCA_013402855.1	2
+DSG0095	Escherichia coli strain SLK172	GCF_001936315.1	CP017631,CP017632,CP017633	1.0	2	3	completado	verificado	Pendiente	GCF_001936315.1	2
+DSG0096	Escherichia coli strain Combat13F7	GCA_002951695.1	CP019245,CP019246,CP019247,CP019248,CP019249	1.0	4	5	completado	verificado	Pendiente	GCA_002951695.1	4
+DSG0097	Escherichia coli strain 81009	Unavailable	CP021179,CP021180	1.0	1	2	completado	verificado	Pendiente	CP021179,CP021180	1
+DSG0098	Escherichia coli strain EcPF15	GCA_013372365.1	CP054227,CP054228,CP054229	1.0	2	3	completado	verificado	Pendiente	GCA_013372365.1	2
+DSG0099	Escherichia coli strain PK5074	GCA_017903455.1	CP072802,CP072805,CP072804,CP072806,CP072803,CP072807	1.0	5	6	completado	verificado	Pendiente	GCA_017903455.1	5
+DSG0100	Escherichia coli strain 71	GCA_018208315.1	CP062933,CP062934,CP062935	1.0	2	3	completado	verificado	Pendiente	GCA_018208315.1	2
+DSG0101	Escherichia coli strain EcPNK004	GCA_017352035.1	CP071439,CP071440	1.0	1	2	completado	verificado	Pendiente	GCA_017352035.1	1
+DSG0102	Escherichia coli strain 382634_2f strain not applicable	GCA_004804205.1	CP039403	1.0	0	1	completado	verificado	Pendiente	GCA_004804205.1	0
+DSG0103	Escherichia coli strain 188B	GCA_014898615.1	CP062970,CP062971,CP062972	1.0	2	3	completado	verificado	Pendiente	GCA_014898615.1	2
+DSG0104	Escherichia coli strain CRE1	GCA_004135775.1	CP034399,CP034396,CP034397,CP034400,CP034398	1.0	4	5	completado	verificado	Pendiente	GCA_004135775.1	4
+DSG0105	Escherichia coli strain EcPF20	GCA_017352075.1	CP071441,CP071442,CP071443	1.0	2	3	completado	verificado	Pendiente	GCA_017352075.1	2
+DSG0106	Escherichia coli strain 131	GCA_007108845.1	CP041541,CP041542,CP041543	1.0	2	3	completado	verificado	Pendiente	GCA_007108845.1	2
+DSG0107	Escherichia coli strain BR43-DEC	GCA_004118895.1	CP035377,CP035378,CP035379	1.0	2	3	completado	verificado	Pendiente	GCA_004118895.1	2
+DSG0108	Escherichia coli strain Survcare321	GCA_018771585.1	CP076301,CP076302,CP076303,CP076304	1.0	3	4	completado	verificado	Pendiente	GCA_018771585.1	3
+DSG0109	Escherichia coli strain SCAID URN1-2019	GCA_012955465.1	CP052057	1.0	0	1	completado	verificado	Pendiente	GCA_012955465.1	0
+DSG0110	Escherichia coli strain Combat11I9	GCA_002952095.1	CP021726,CP021727,CP021728,CP021729,CP021730	1.0	4	5	completado	verificado	Pendiente	GCA_002952095.1	4
+DSG0111	Escherichia coli strain M7424	GCA_014962565.1	CP063153,CP063154,CP063155,CP063156	1.0	3	4	completado	verificado	Pendiente	GCA_014962565.1	3
+DSG0112	Escherichia coli strain 69	GCA_007107705.1	CP041522,CP041523,CP041524,CP041525	1.0	3	4	completado	verificado	Pendiente	GCA_007107705.1	3
+DSG0113	Escherichia coli strain XDL	GCA_008949495.1	SAIZ00000000	1.0	5	6	completado	verificado	Pendiente	GCA_008949495.1	5
+DSG0114	Escherichia coli strain AR Bank #0349	GCA_008152105.1	CP041996,CP041997	1.0	1	2	completado	verificado	Pendiente	GCA_008152105.1	1
+DSG0115	Escherichia coli strain WS3294A	GCA_018884305.1	CP035819,CP035820,CP035821	1.0	2	3	completado	verificado	Pendiente	GCA_018884305.1	2
+DSG0116	Escherichia coli strain UPEC 26-1	GCF_001693315.1	CP016497,CP016498	1.0	1	2	completado	verificado	Pendiente	GCF_001693315.1	1
+DSG0117	Escherichia coli NCCP15648	GCA_003433275.1	CP009050,CP009051,CP009052,CP009053	1.0	3	4	completado	verificado	Pendiente	GCA_003433275.1	3
+DSG0118	Escherichia coli strain EC931	GCA_014522225.1	CP049118,CP049119,CP049130,CP049131,CP049120,CP049123,CP049124,CP049125,CP049126,CP049127,CP049128,CP049129	1.0	13	14	completado	verificado	Pendiente	GCA_014522225.1	13
+DSG0119	Escherichia coli strain HS13-1	GCA_002953435.1	CP026491,CP026493,CP026494,CP026492	1.0	3	4	completado	verificado	Pendiente	GCA_002953435.1	3
+DSG0120	Escherichia coli strain CFT073	GCA_003028795.1	CP028309	1.0	0	1	completado	verificado	Pendiente	GCA_003028795.1	0
+DSG0121	Escherichia coli strain AR Bank #0346	GCA_017579865.1	CP066366,CP066367,CP066368	1.0	2	3	completado	verificado	Pendiente	GCA_017579865.1	2
+DSG0122	Escherichia coli O157:H7 strain COPRO21317	GCA_006514375.1	CP035706,CP035705	1.0	1	2	completado	verificado	Pendiente	GCA_006514375.1	1
+DSG0123	Escherichia coli K-12 strain MG655	GCA_003028735.1	CP028306	1.0	0	1	completado	verificado	Pendiente	GCA_003028735.1	0
+DSG0124	Escherichia coli strain TW10598	GCA_018884405.1	CP035846,CP035847,CP035849,CP035848	1.0	3	4	completado	verificado	Pendiente	GCA_018884405.1	3
+DSG0125	Escherichia coli strain M11957	Unavailable	CP061337,CP061338	1.0	1	2	completado	verificado	Pendiente	CP061337,CP061338	1
+DSG0126	Escherichia coli strain Z1002	Unavailable	CP021202,CP021203,CP021204,CP021205,CP021206	1.0	4	5	completado	verificado	Pendiente	CP021202,CP021203,CP021204,CP021205,CP021206	4
+DSG0127	Escherichia coli strain NCCP 15955	GCA_009873375.1	CP041749	1.0	0	1	completado	verificado	Pendiente	GCA_009873375.1	0
+DSG0128	Escherichia coli strain MSHS 133	GCA_006777085.1	CP041304,CP041303	1.0	1	2	completado	verificado	Pendiente	GCA_006777085.1	1
+DSG0129	Escherichia coli strain SD134209	GCA_003203755.1	CP029692,CP029690,CP029691	1.0	2	3	completado	verificado	Pendiente	GCA_003203755.1	2
+DSG0130	Escherichia coli strain 131	GCA_007108085.1	CP041529,CP041530,CP041531	1.0	2	3	completado	verificado	Pendiente	GCA_007108085.1	2
+DSG0131	Escherichia coli strain SF-166	GCA_001280385.1	CP012633,CP012634	1.0	1	2	completado	verificado	Pendiente	GCA_001280385.1	1
+DSG0132	Escherichia coli 536	GCA_000013305.1	CP000247	1.0	0	1	completado	verificado	Pendiente	GCA_000013305.1	0
+DSG0133	Escherichia coli strain E2348/69	GCA_014117345.1	CP059840,CP059842,CP059841	1.0	2	3	completado	verificado	Pendiente	GCA_014117345.1	2
+DSG0134	Escherichia coli strain 31HGR-CBG	GCA_019614135.1	CP080645,CP080646	1.0	1	2	completado	verificado	Pendiente	GCA_019614135.1	1
+DSG0135	Escherichia coli O84:H7 strain Trh52	GCA_016803935.1	CP047600,CP047601	1.0	1	2	completado	verificado	Pendiente	GCA_016803935.1	1
+DSG0136	Escherichia coli strain BH100	GCA_002763515.1	CP024650,CP024651,CP024652	1.0	2	3	completado	verificado	Pendiente	GCA_002763515.1	2
+DSG0137	Escherichia coli strain E2528-C1	GCA_018884505.1	CP035870,CP035873,CP035872,CP035871	1.0	3	4	completado	verificado	Pendiente	GCA_018884505.1	3
+DSG0138	Escherichia coli strain Ec1079	GCA_019720795.1	CP081306,CP081307,CP081308,CP081309,CP081310	1.0	4	5	completado	verificado	Pendiente	GCA_019720795.1	4
+DSG0139	Escherichia coli O157 strain 180-PT54	GCF_001650275.1	CP015832,CP015833	1.0	1	2	completado	verificado	Pendiente	GCF_001650275.1	1
+DSG0140	Escherichia coli strain 188	GCA_014898635.1	CP062967,CP062968,CP062969	1.0	2	3	completado	verificado	Pendiente	GCA_014898635.1	2
+DSG0141	Escherichia coli strain H1827/12	GCF_001678925.1	CP013031	1.0	0	1	completado	verificado	Pendiente	GCF_001678925.1	0
+DSG0142	Escherichia coli strain MS6192	GCA_013357345.1	CP054940,CP054941,CP054942,CP054943,CP054944	1.0	4	5	completado	verificado	Pendiente	GCA_013357345.1	4
+DSG0143	Escherichia coli strain 95	GCA_007108505.1	CP041535,CP041536,CP041537	1.0	2	3	completado	verificado	Pendiente	GCA_007108505.1	2
+DSG0144	Escherichia coli strain 91A	GCA_018208335.1	CP062930,CP062931,CP062932	1.0	2	3	completado	verificado	Pendiente	GCA_018208335.1	2
+DSG0145	Escherichia coli strain 13TMH22	GCA_002951755.1	CP019256,CP019257,CP019258	1.0	2	3	completado	verificado	Pendiente	GCA_002951755.1	2
+DSG0146	Escherichia coli strain SF-088	GCA_001280325.1	CP012635,CP012636,CP012637,CP012638	1.0	3	4	completado	verificado	Pendiente	GCA_001280325.1	3
+DSG0147	Escherichia coli strain EC1390	GCA_019884625.1	CP082330,CP082329,CP082328	1.0	2	3	completado	verificado	Pendiente	GCA_019884625.1	2
+DSG0148	Escherichia coli strain 28Eco12	GCA_004759025.1	CP038505,CP038506	1.0	1	2	completado	verificado	Pendiente	GCA_004759025.1	1
+DSG0149	Escherichia coli strain EC1515	Unavailable	CP021844,CP021845,CP021846,CP021847	1.0	3	4	completado	verificado	Pendiente	CP021844,CP021845,CP021846,CP021847	3
+DSG0150	Escherichia coli strain ETEC-2265	GCA_002302315.1	CP023346,CP023347,CP023348	1.0	2	3	completado	verificado	Pendiente	GCA_002302315.1	2
+DSG0151	Escherichia coli strain DS26-1	GCA_018884545.1	CP035879,CP035880,CP035881	1.0	2	3	completado	verificado	Pendiente	GCA_018884545.1	2
+DSG0152	Escherichia coli strain MCJCHV-1	GCA_003344465.1	CP030111,CP030112,CP030113,CP030114,CP030115,CP030116	1.0	5	6	completado	verificado	Pendiente	GCA_003344465.1	5
+DSG0153	Escherichia coli strain NCCP 15739	GCA_009873355.1	CP041747,CP041748	1.0	1	2	completado	verificado	Pendiente	GCA_009873355.1	1
+DSG0154	Escherichia coli JJ1886	GCA_000493755.1	CP006784.1,CP006789.1,CP006785.1,CP006788.1,CP006786.1,CP006787.1	1.0	4	6	completado	extra_plasmido	Pendiente	GCA_000493755.1	5
+DSG0155	Escherichia coli strain Survcare045	GCA_018771545.1	CP076318,CP076315,CP076319,CP076320,CP076321,CP076312,CP076313,CP076314,CP076316,CP076317	1.0	9	10	completado	verificado	Pendiente	GCA_018771545.1	9
+DSG0156	Escherichia coli strain BR29-DEC	GCA_004116895.1	CP035339,CP035335,CP035345,CP035346,CP035347,CP035348,CP035336,CP035337,CP035338,CP035340,CP035341,CP035342	1.0	13	14	completado	verificado	Pendiente	GCA_004116895.1	13
+DSG0157	Escherichia coli strain EC25	GCA_004088295.1	CP035123,CP035124,CP035126,CP035127,CP035128,CP035125	1.0	5	6	completado	verificado	Pendiente	GCA_004088295.1	5
+DSG0158	Escherichia coli strain p11A	GCA_011330935.1	CP049077,CP049078,CP049079	1.0	2	3	completado	verificado	Pendiente	GCA_011330935.1	2
+DSG0159	Escherichia coli strain 179A	GCA_018208295.1	CP062927,CP062928,CP062929	1.0	2	3	completado	verificado	Pendiente	GCA_018208295.1	2
+DSG0160	Escherichia coli strain BR03-DEC	GCA_004116595.1	CP035321	1.0	0	1	completado	verificado	Pendiente	GCA_004116595.1	0
+DSG0161	Escherichia coli strain NCCP 14539	GCA_009873415.1	CP042981	1.0	0	1	completado	verificado	Pendiente	GCA_009873415.1	0
+DSG0162	Escherichia coli strain 025542-1	GCA_018884345.1	CP035832,CP035835,CP035834,CP035833	1.0	3	4	completado	verificado	Pendiente	GCA_018884345.1	3
+DSG0163	Escherichia coli strain MS6198	GCF_001721525.1	CP015834,CP015835,CP015836,CP015837,CP015838	1.0	4	5	completado	verificado	Pendiente	GCF_001721525.1	4
+DSG0164	Escherichia coli strain 2D	GCA_013425955.1	CP059003,CP059005,CP059007,CP059008,CP059004,CP059006	1.0	5	6	completado	verificado	Pendiente	GCA_013425955.1	5
+DSG0165	Escherichia coli Nissle 1917	GCF_000714595.1	CP007799	1.0	0	1	completado	verificado	Pendiente	GCF_000714595.1	0
+DSG0166	Escherichia coli strain ST410	GCA_003367575.1	CP029630,CP029631	1.0	1	2	completado	verificado	Pendiente	GCA_003367575.1	1
+DSG0167	Escherichia coli O157:H7 strain TT12A strain not applicable	GCA_017357545.1	CP038496,CP038497	1.0	1	2	completado	verificado	Pendiente	GCA_017357545.1	1
+DSG0168	Escherichia coli strain 2547	GCA_018075305.1	CP072980,CP072982,CP072981	1.0	2	3	completado	verificado	Pendiente	GCA_018075305.1	2
+DSG0169	Escherichia coli strain M00057	GCA_014656625.1	CP061339,CP061340	1.0	1	2	completado	verificado	Pendiente	GCA_014656625.1	1
+DSG0170	Escherichia coli strain UPEC-774U/190308	GCA_019443685.1	CP049852,CP049856,CP049855,CP049854,CP049853	1.0	4	5	completado	verificado	Pendiente	GCA_019443685.1	4
+DSG0171	Escherichia coli strain UPEC_U013	GCA_014522245.1	CP058596	1.0	0	1	completado	verificado	Pendiente	GCA_014522245.1	0
+DSG0172	Escherichia coli O157:H7 strain Z1813	GCA_017164995.1	CP062725,CP062726	1.0	1	2	completado	verificado	Pendiente	GCA_017164995.1	1
+DSG0173	Escherichia coli O104:H4 strain FDAARGOS_348	Unavailable	CP022086,CP022085,CP022087	1.0	2	3	completado	verificado	Pendiente	CP022086,CP022085,CP022087	2
+DSG0174	Escherichia coli strain EcPF18	GCA_013372325.1	CP054219,CP054220,CP054221,CP054222,CP054223	1.0	4	5	completado	verificado	Pendiente	GCA_013372325.1	4
+DSG0175	Escherichia coli strain ST648	GCF_001485455.1	CP008697,CP008715,CP008716,CP008717,CP008718,CP008719,CP008720,CP008721	1.0	7	8	completado	verificado	Pendiente	GCF_001485455.1	7
+DSG0176	Shigella boydii strain 183	GCA_009738325.1	CP024694	1.0	0	1	completado	verificado	Pendiente	GCA_009738325.1	0
+DSG0177	Shigella boydii strain 192	GCA_009738345.1	CP024695	1.0	0	1	completado	verificado	Pendiente	GCA_009738345.1	0
+DSG0178	Shigella boydii strain 600080	GCA_013394495.1	CP049606,CP049607	1.0	1	2	completado	verificado	Pendiente	GCA_013394495.1	1
+DSG0179	Shigella boydii strain 600657	GCA_013394535.1	CP049281,CP049282,CP049284,CP049283	1.0	3	4	completado	verificado	Pendiente	GCA_013394535.1	3
+DSG0180	Shigella boydii strain 600690	GCA_013394515.1	CP049278,CP049279,CP049280	1.0	2	3	completado	verificado	Pendiente	GCA_013394515.1	2
+DSG0181	Shigella boydii strain 602068	GCA_013394555.1	CP049285,CP049286	1.0	1	2	completado	verificado	Pendiente	GCA_013394555.1	1
+DSG0182	Shigella boydii strain 80	GCA_009738285.1	CP024693	1.0	0	1	completado	verificado	Pendiente	GCA_009738285.1	0
+DSG0183	Shigella boydii strain ATCC 9210	GCF_001027225.1	CP011511	1.0	0	1	completado	verificado	Pendiente	GCF_001027225.1	0
+DSG0184	Shigella flexneri 1c strain Y394	GCA_002442995.1	CP020753	1.0	0	1	completado	verificado	Pendiente	GCA_002442995.1	0
+DSG0185	Shigella flexneri 3a strain 888048	GCA_016598675.1	CP066809	1.0	0	1	completado	verificado	Pendiente	GCA_016598675.1	0
+DSG0186	Shigella flexneri 5a str. M90T	GCA_004799585.1	CP037923,CP037924	1.0	1	2	completado	verificado	Pendiente	GCA_004799585.1	1
+DSG0187	Shigella flexneri strain 113	GCA_009738305.1	CP024982	1.0	0	1	completado	verificado	Pendiente	GCA_009738305.1	0
+DSG0188	Shigella flexneri strain 201	GCA_009738265.1	CP024981	1.0	0	1	completado	verificado	Pendiente	GCA_009738265.1	0
+DSG0189	Shigella flexneri strain 36P	GCA_009738365.1	CP024983	1.0	0	1	completado	verificado	Pendiente	GCA_009738365.1	0
+DSG0190	Shigella flexneri strain 5908.2	GCA_009931475.1	CP045522,CP045523	1.0	1	2	completado	verificado	Pendiente	GCA_009931475.1	1
+DSG0191	Shigella flexneri strain 837	GCA_009738385.1	CP024984	1.0	0	1	completado	verificado	Pendiente	GCA_009738385.1	0
+DSG0192	Shigella flexneri strain M2901	GCA_013402835.1	CP058589,CP058590,CP058591,CP058592,CP058593	1.0	4	5	completado	verificado	Pendiente	GCA_013402835.1	4
+DSG0193	Shigella flexneri strain SFL1520	GCA_004171185.1	CP032513	1.0	0	1	completado	verificado	Pendiente	GCA_004171185.1	0
+DSG0194	Shigella sonnei strain 09163633	GCA_013146765.1	CP049167,CP049168	1.0	1	2	completado	verificado	Pendiente	GCA_013146765.1	1
+DSG0195	Shigella sonnei strain 19.0820.1561	GCA_013147065.1	CP049173,CP049174	1.0	1	2	completado	verificado	Pendiente	GCA_013147065.1	1
+DSG0196	Shigella sonnei strain 19.0821.3486	GCA_013146845.1	CP049185,CP049186	1.0	1	2	completado	verificado	Pendiente	GCA_013146845.1	1
+DSG0197	Shigella sonnei strain 19.0822.3296	GCA_013147245.1	CP049183,CP049184	1.0	1	2	completado	verificado	Pendiente	GCA_013147245.1	1
+DSG0198	Shigella sonnei strain 19.1125.3493	GCA_013146785.1	CP049169,CP049170	1.0	1	2	completado	verificado	Pendiente	GCA_013146785.1	1
+DSG0199	Shigella sonnei strain 3123885	GCA_013146725.1	CP049163,CP049164	1.0	1	2	completado	verificado	Pendiente	GCA_013146725.1	1
+DSG0200	Shigella sonnei strain 6207	GCA_014725795.1	CP061367,CP061363,CP061364,CP061365,CP061366	1.0	4	5	completado	verificado	Pendiente	GCA_014725795.1	4
+DSG0201	Shigella sonnei strain 6607.69	GCA_009931515.1	CP045526,CP045527	1.0	1	2	completado	verificado	Pendiente	GCA_009931515.1	1
+DSG0202	Shigella sonnei strain 6904.27	Unavailable	CP045524,CP045525	1.0	1	2	completado	verificado	Pendiente	CP045524,CP045525	1
+DSG0203	Shigella sonnei strain 7111.69	GCA_013147165.1	CP049175,CP049176	1.0	1	2	completado	verificado	Pendiente	GCA_013147165.1	1
+DSG0204	Shigella sonnei strain 75/02	Unavailable	CP019689,CP019690,CP019691,CP019692,CP019693,CP019694,CP019695,CP019696	1.0	7	8	completado	verificado	Pendiente	CP019689,CP019690,CP019691,CP019692,CP019693,CP019694,CP019695,CP019696	7
+DSG0205	Shigella sonnei strain 866	GCA_003265245.1	CP022672,CP022673	1.0	1	2	completado	verificado	Pendiente	GCA_003265245.1	1
+DSG0206	Shigella sonnei strain 893916	GCA_016598715.1	CP066810	1.0	0	1	completado	verificado	Pendiente	GCA_016598715.1	0
+DSG0207	Shigella sonnei strain FC1428	GCA_006843305.1	CP041322	1.0	0	1	completado	verificado	Pendiente	GCA_006843305.1	0
+DSG0208	Shigella sonnei strain FDAARGOS_90	GCF_001558295.1	CP014099,CP014096,CP014097,CP014098,CP014100,CP014101	1.0	5	6	completado	verificado	Pendiente	GCF_001558295.1	5
+DSG0209	Shigella sonnei strain FORC_011	GCF_001518855.1	CP010829,CP010830,CP010831,CP010832	1.0	3	4	completado	verificado	Pendiente	GCF_001518855.1	3
+DSG0210	Shigella sonnei strain LC1477/18	GCA_004328985.1	CP035008,CP035009,CP035010,CP035011	1.0	3	4	completado	verificado	Pendiente	GCA_004328985.1	3
+DSG0211	Shigella sonnei strain UKMCC_1015	GCA_014217935.1	CP060117,CP060118,CP060119	1.0	2	3	completado	verificado	Pendiente	GCA_014217935.1	2
