@@ -1,6 +1,6 @@
 # download-genome
 
-Herramienta en línea de comandos que, a partir de un TSV con genomas y accesiones GenBank, descarga de **NCBI** archivos **GenBank** (`.gb`) y **GFF3** (`.gff3`), con pausa entre peticiones y reporte opcional de errores.
+Herramienta en línea de comandos que, a partir de un TSV con genomas y accesiones GenBank, descarga de **NCBI** archivos **GenBank** (`.gb.gz`), **GFF3** (`.gff3.gz`) y **FASTA** (`.fna.gz`), con pausa entre peticiones, reporte de errores y reporte de checksums.
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![uv](https://img.shields.io/badge/uv-enabled-5c6cbc.svg)
@@ -18,7 +18,7 @@ Herramienta en línea de comandos que, a partir de un TSV con genomas y accesion
 | Paquete   | Uso en el proyecto         |
 |----------|----------------------------|
 | pandas   | Leer TSV, escribir reporte |
-| requests | Descargar GFF3 vía HTTP   |
+| requests | Descargar GFF3 y metadatos HTTP de checksum |
 | biopython| `Bio.Entrez` (efetch, esearch) |
 
 Están declaradas en `pyproject.toml` e instalables con `uv sync`.
@@ -84,14 +84,26 @@ uv run python main.py --email tu.correo@institucion.org -i genomas.tsv -o descar
 - `--delay` — Segundos entre peticiones (sin API key de NCBI, conviene ≥ **0.34**).
 - `--api-key` — API key opcional de NCBI.
 - Columnas: `--col-genome-id`, `--col-genome-name`, `--col-accessions`.
+- `--verify-checksum` — Intenta verificar checksum remoto (si existe) y siempre guarda SHA256 local.
+- `--checksum-source` — Fuente remota (`auto`, `headers`, `none`).
+- `--checksum-timeout` — Tiempo máximo para chequeos remotos.
 
 ## Salida
 
-Bajo el directorio de `--output-dir` se crean, entre otros:
+Bajo el directorio de `--output-dir` se crean:
 
-- `genbank/` — archivos `{accession}.gb`
-- `gff3/` — archivos `{accession}.gff3`
+- `genbank/` — archivos `{accession}.gb.gz`
+- `gff3/` — archivos `{accession}.gff3.gz`
+- `fasta/` — archivos `{accession}.fna.gz`
 - `reporte_errores.tsv` — solo si hubo incidencias (accesion inexistente, fallos de descarga, etc.)
+- `reporte_checksums.tsv` — estado de checksum por archivo (`match`, `mismatch`, `unavailable`, `local-only`) con SHA256 local.
+
+## Checksums e integridad
+
+- El script calcula **SHA256 local** para cada archivo descargado.
+- Si usas `--verify-checksum`, intenta obtener checksum remoto desde encabezados HTTP cuando aplique (principalmente en descargas por `requests`).
+- Si no existe checksum remoto para una descarga, el estado queda `unavailable` (sin detener el flujo).
+- Este enfoque permite trazabilidad de integridad aunque NCBI no siempre exponga checksums directos por accession en todos los endpoints.
 
 ## Política de NCBI
 
